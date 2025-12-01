@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RestaurantApp {
+public class RestoranApp {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         MenuManager manager = new MenuManager();
