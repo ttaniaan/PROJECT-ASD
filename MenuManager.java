@@ -27,7 +27,6 @@ public class MenuManager {
     }
 
     // Sorting harga dengan SELECTION SORT -> O(n^2)
-    // Dipilih karena mudah dipahami
     public void sortByHargaSelection() {
         int n = menus.size();
 
